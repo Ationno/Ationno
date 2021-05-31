@@ -1,0 +1,4 @@
+- Hi, I’m @Ationno.
+- I’m currently learning CSE in Universidad de La Plata.
+- I’m interested in Machine Learning, AI and Neural Networks.
+- You can view a mix of my projects in my repositories.
