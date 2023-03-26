@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://lh4.googleusercontent.com/eGOgebKEdmLC-c-w8mZ1haFzy_5SQn15Hxx6XIhhCeFicwrKDwXGKVHg-bQCWbnaKGRaqwfHILf7ni6sV4YHwuyi9VEcvtn0p3jicqPZbvFZqtlJq4ZmzTj1UXkD5II54WcgevGe"/>
+  <img align="center" src="https://drive.google.com/file/d/1NLQK9edrqEViF87WO50NolZvqEMLapuX/view?usp=sharing"/>
 </p>
 
 <h4 align="center">Soy Antonio Glorioso, estudiante de "Licenciatura en Informatica" en la UNLP </h4>
