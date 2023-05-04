@@ -3,7 +3,7 @@
   <img align="center" src="https://drive.google.com/uc?export=view&id=1NLQK9edrqEViF87WO50NolZvqEMLapuX&rl"/>
 </p>
 
-<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=ADBAC7&center=true&multiline=true&repeat=false&width=1500&lines=Soy+Antonio+Glorioso%2C+estudiante+de+%22Licenciatura+en+Informatica%22+en+la+UNLP" alt="Typing SVG" /></a> </h4>
+<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=ADBAC7&center=true&multiline=true&repeat=false&width=1500&lines=Soy+Antonio+Glorioso%2C+estudiante+de+Licenciatura+en+Informatica+en+la+UNLP" alt="Typing SVG" /></a> </h4>
 
 - 🌱 Actualmente estoy aprendiendo **Angular y Python**
 
