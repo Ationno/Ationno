@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular y Python**
 
-- 📫 Informacion de contacto **antonioglorioso1@hotmail.com**
+- 📫 Informacion de contacto **antoniogloriosoceretti@gmail.com**
 
 <h3 align="center">Me podes encontrar en:</h3>
 <p align="center">
