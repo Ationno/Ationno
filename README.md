@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://drive.google.com/uc?export=view&id=1NLQK9edrqEViF87WO50NolZvqEMLapuX&rl"/>
+  <img align="center" src="https://drive.google.com/file/d/1v1Uj3zVz_8_5d-uPvXd2TuXp3BGHp4eY/view?usp=sharing"/>
 </p>
 
 <h4 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=ADBAC7&center=true&multiline=true&repeat=false&width=1500&lines=Soy+Antonio+Glorioso%2C+estudiante+de+Licenciatura+en+Informatica+en+la+UNLP" alt="Typing SVG" /> </h4>
