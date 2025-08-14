@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋</h1>
 <p align="center">
-  <img align="center" src="https://drive.google.com/uc?export=view&id=1v1Uj3zVz_8_5d-uPvXd2TuXp3BGHp4eY">
+  <img align="center" src="https://drive.google.com/uc?export=view&id=1FjH93dkpQZnWy8LLlh9QePnhfTD8lHae">
 </p>
 
 <h4 align="center">
