@@ -13,14 +13,27 @@
 - 🤝 Con muchas ganas de seguir creciendo, aprendiendo y creando nuevos vínculos en el mundo IT  
 - 📫 Contacto: **antoniogloriosoceretti@gmail.com**
 
-<h3 align="center">Me podés encontrar en:</h3>
+<h2 align="center">📬 Contacto</h2>
 <p align="center">
-<a href="https://www.instagram.com/antofel1x" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ationno" height="30" width="40" />
-</a>
+    <a href="https://www.linkedin.com/in/antonioglorioso" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    </a>
+      <a href="https://www.instagram.com/antofel1x" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ationno" height="30" width="40" />
+    </a>
+    <a href="https://open.spotify.com/user/z667sx283ogq0zthe3huu4lpt?si=9ae662bec4f14647" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" height="30" width="40"/>
+    </a>
 </p>
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
+<h2 align="center"> 👾 Discord</h2>
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/353618483801620480?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/353618483801620480)
+
+</div>
+
+<h2 align="center">🛠 Lenguajes y Herramientas</h2>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
