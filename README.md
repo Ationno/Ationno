@@ -26,13 +26,6 @@
     </a>
 </p>
 
-<h2 align="center"> 👾 Discord</h2>
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/353618483801620480?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/353618483801620480)
-
-</div>
-
 <h2 align="center">🛠 Lenguajes y Herramientas</h2>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
