@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=ADBAC7&center=true&multiline=true&repeat=false&width=1500&lines=Soy+Antonio+Glorioso%2C+Developer+y+Estudiante" alt="Typing SVG" />
 </h4>
 
-- 💻 Actualmente trabajo como **Trainee Software Developer** en **Despegar.com**  
+- 💻 Actualmente trabajo como **Software Developer** en **Despegar.com**  
 - 🎓 Estudiante de **Licenciatura en Informática** en la **UNLP** (5to año)  
 - 🌱 Aprendiendo y perfeccionándome en **Angular y Python**  
 - 🤝 Con muchas ganas de seguir creciendo, aprendiendo y creando nuevos vínculos en el mundo IT  
